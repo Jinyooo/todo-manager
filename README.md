@@ -1,5 +1,6 @@
 # Todo Manager
- <https://jinyooo.github.io/todo-manager/>
+ <https://jinyooo.github.io/todo-manager/> <br/>
+
 ### Summary
 
 > 간단한 할일 리스트 작성, 완료, 삭제 기능을 갖춘 투두리스트 매니저입니다. Vuejs로 작성하였으며 Vuex로 상태관리를 했습니다. 할 일 목록은 jsonplaceholder api를 이용했습니다.
